@@ -151,7 +151,8 @@ aside {
   padding: 10px;
 }
 p {
-  margin-top: 10px; /* Espaciado entre la imagen y el texto */
+  margin-top: 10px; 
+  width: 75%;
 }
 .widget-busqueda {
   padding: 10px;
